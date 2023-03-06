@@ -1,0 +1,15 @@
+{
+  "name": "les-3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bryan Kesteloot",
+  "license": "ISC",
+  "dependencies": {
+    "jshint": "^2.13.6",
+    "underscore": "^1.13.6"
+  }
+}
